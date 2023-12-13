@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an independent Ruby on Rails / JS / OpenAI consultant
+
+🔭 I'm recently starting and working on:
+
 <!--
 **a1xsh/a1xsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
