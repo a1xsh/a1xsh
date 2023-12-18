@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋!
 
 I am an independent Ruby on Rails / JS / OpenAI consultant
 
