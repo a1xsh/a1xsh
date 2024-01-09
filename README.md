@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I am an independent Ruby on Rails / JS / OpenAI consultant
+I am an Ruby on Rails / JS / OpenAI consultant.
 
 🔭 I'm recently starting and working on:
 
