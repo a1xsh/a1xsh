@@ -1,8 +1,17 @@
 ### Hi there 👋!
 
-I am an Ruby on Rails / JS / OpenAI consultant.
+I am a Ruby on Rails / JS / OpenAI consultant.
 
-🔭 I'm recently starting and working on:
+- Ruby and Ruby on Rails
+- JavaScript, React
+- Stimulus, Turbo, Hotwired
+- HTML, HAML, and HTML5
+- PostgreSQL and MySQL for backend databases
+- Version control with Git and GitHub
+- SAAS, IAAS, eCommerce applications.
+- UX/design, SEO
+- DevOps (Hetzner, DigitalOcean etc)
+- OpenAI expert
 
 <!--
 **a1xsh/a1xsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
