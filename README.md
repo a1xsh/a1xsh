@@ -10,6 +10,7 @@ I am a Ruby on Rails / JS / OpenAI consultant.
 - Version control with Git and GitHub
 - SAAS, IAAS, eCommerce applications.
 - UX/design, SEO
+- Golang
 - DevOps (Hetzner, DigitalOcean etc)
 - OpenAI expert
 
