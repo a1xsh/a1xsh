@@ -1,6 +1,11 @@
 ### Hi there 👋!
 
-I am a Ruby on Rails / JS / OpenAI consultant.
+🥇 Top 1% - Upwork Ruby on Rails Solutions
+✅ Senior developer (10+ years experience ROR & JS)
+✅ 30 completed projects & 3000 hours on UpWork!
+🇺🇸 Work from LA, California! PST/PDT time zone.
+
+Hi, 👋 I'm Alex! I've worked with dozens of Ruby on Rails applications, from small startups to huge production apps with millions of users. Included: SAAS, IAAS, marketplace, search engines etc. Also, I am an OSS contributor, maintaining RubyAI, kredis, cookies_eu, and other gems in the Ruby ecosystem.
 
 - Ruby and Ruby on Rails
 - JavaScript, React
@@ -10,9 +15,9 @@ I am a Ruby on Rails / JS / OpenAI consultant.
 - Version control with Git and GitHub
 - SAAS, IAAS, eCommerce applications.
 - UX/design, SEO
-- Golang
 - DevOps (Hetzner, DigitalOcean etc)
 - OpenAI expert
+
 
 <!--
 **a1xsh/a1xsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
