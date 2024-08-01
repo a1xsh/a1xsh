@@ -1,8 +1,11 @@
 ### Hi there 👋!
 
 🥇 Top 1% - Upwork Ruby on Rails Solutions
+
 ✅ Senior developer (10+ years experience ROR & JS)
+
 ✅ 30 completed projects & 3000 hours on UpWork!
+
 🇺🇸 Work from LA, California! PST/PDT time zone.
 
 Hi, 👋 I'm Alex! I've worked with dozens of Ruby on Rails applications, from small startups to huge production apps with millions of users. Included: SAAS, IAAS, marketplace, search engines etc. Also, I am an OSS contributor, maintaining RubyAI, kredis, cookies_eu, and other gems in the Ruby ecosystem.
